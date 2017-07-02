@@ -17,8 +17,8 @@ h1 {
 p {
     font-family: helvetica;
     font-size: 18px;
-    height: 350px;
-    width: 1000px;
+    min-height: 350px;
+    max-width: 1000px;
     margin: auto;
     margin-top: 20px;
 ;
